@@ -1,6 +1,6 @@
 # Coding Journal
 
-## Date: [12-23-2023]
+## Date: [12-25-2023]
 
 ## Today's Progress
 
